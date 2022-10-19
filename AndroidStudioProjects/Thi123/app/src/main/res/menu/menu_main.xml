@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.thi1.MainActivity">
+    <item
+        android:id="@+id/Monan"
+        android:orderInCategory="100"
+        android:title="Mon an"
+         />
+    <item
+        android:id="@+id/Loaimon"
+        android:orderInCategory="100"
+        android:title="Loai mon"
+   />
+
+</menu>
